@@ -1,0 +1,53 @@
+* {
+    background-color: rgb(171, 60, 60);
+}
+.kobejord {
+    position: absolute;
+    display: inline;
+    left: 56%;
+    top: 10%;
+}
+.jordw {
+    position: absolute;
+    display: inline;
+    left: 25%;
+    top: 50%;
+}
+.stand {
+    position: absolute;
+    display: inline;
+    top: 10%;
+    left: 25%;
+}
+.dunk {
+    position: absolute;
+    display: inline;
+    top: 60%;
+    left: 65%;
+}
+.table {
+    position: absolute;
+    display: inline;
+    top: 70%;
+    left: 35%; 
+}
+table tr td {
+    background-color: rgb(146, 40, 40);
+    height: 20px;
+    width: 120px;
+}
+.forward {
+    position: absolute;
+    display: inline;
+    top: 100%;
+    left: 10%; 
+}
+.athlete {
+    color: black;
+}
+.trophie {
+    position: absolute;
+    display: inline;
+    top: 90%;
+    left: 35%; 
+}

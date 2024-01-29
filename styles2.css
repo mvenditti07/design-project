@@ -1,0 +1,54 @@
+* {
+    background-color: purple;
+}
+.dunk {
+    display: inline;
+    position: absolute;
+    top: 80px;
+    left: 680px;
+}
+.kobe {
+    display: inline;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+.kobewritting {
+    display: inline;
+    position: absolute;
+    top: 600px;
+    left: 0px;
+}
+.invoice-table {
+    display: inline;
+    position: absolute;
+    top: 750px;
+    left: 250px;
+    background-color: grey;
+}
+table tr td {
+    background-color: white;
+    height: 30px;
+    width: 400px
+}
+.next {
+    display: inline;
+    position: absolute;
+    top: 870px;
+    left: 580px;
+}
+.black1 {
+    display: inline;
+    position: absolute;
+    top: 875px;
+    left: 560px;
+}
+.black2 {
+    display: inline;
+    position: absolute;
+    top: 875px;
+    left: 740px;
+}
+.click {
+    color: black;
+}

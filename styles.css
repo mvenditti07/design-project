@@ -1,0 +1,130 @@
+* {
+    background-color:rgb(61, 136, 161);
+}
+/*Images*/
+.p {
+    display: inline;  
+    position: absolute; 
+    top: 135px;
+    left: 210px;
+}
+.kfc {
+    display: inline;
+    position: absolute;
+    top: 280px;
+    left: 180px;
+}
+.u {
+    display: inline;
+    position: absolute;
+    top: 105px;
+    left: 400px;
+}
+.l {
+    display: inline;
+    position: absolute;
+    top: 130px;
+    left: 920px;
+}
+.hockey {
+    display: inline;
+    position: absolute;
+    top: 600px;
+    left: 450px;
+}
+.black1 {
+    display: inline;
+    position: absolute;
+    top: 900px;
+    left: 160px;
+    rotate: 160deg;
+}
+.black2 {
+    display: inline;
+    position: absolute;
+    top: 900px;
+    left: 1140px;
+    rotate: -160deg;
+}
+.usainbolt {
+    display: inline;
+    position: absolute;
+    top: 1115px;
+    left: 450px;
+    rotate: -15deg;
+}
+.renaldo {
+    display: inline;
+    position: absolute;
+    top: 1115px;
+    left: 680px;
+    rotate: 10deg;
+}
+.steph {
+    display: inline;
+    position: absolute;
+    top: 1260px;
+    left: 350px;
+    rotate: 10deg;
+}
+.pele {
+    display: inline;
+    position: absolute;
+    top: 1260px;
+    left: 680px;
+    rotate: -15deg;
+}
+.foot {
+    display: inline;
+    position: absolute;
+    top: 1240px;
+    left: 500px;
+}
+.ping {
+    display: inline;
+    position: absolute;
+    top: 1115px;
+    left: 250px;
+    rotate: 15deg;
+}
+.tennis {
+    display: inline;
+    position: absolute;
+    top: 1115px;
+    left: 850px;
+    rotate: -15deg;
+}
+.bob {
+    display: inline;
+    position: absolute;
+    top: 650px;
+    left: 250px;
+}
+.cousins {
+    display: inline;
+    position: absolute;
+    top: 650px; 
+    left: 870px;
+}
+/*Writing*/
+.paragraph {
+    position: absolute;
+    top: 500px;
+    left: 20px;
+}
+.next {
+    position: absolute;
+    top: 950px;
+    left: 600px;
+}
+/*Ask Glenn how to put writtin over image*/
+header {
+    background-color: darkgoldenrod;
+    width: 100%;
+}
+.banner {
+    position: fixed;
+    left: 19%;
+    z-index: 2;
+    background-color: darkgoldenrod;
+}

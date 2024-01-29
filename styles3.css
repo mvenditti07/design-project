@@ -1,0 +1,53 @@
+* {
+    background-color: grey;
+}
+.noback {
+    display: inline;
+    position: absolute;
+    left: 800px;
+}
+.quote {
+    display: inline;
+    position: absolute;
+    top: 200px;
+    left: 522px;
+}
+.whitequote {
+    display: inline;
+    position: absolute;
+    top: 455px;
+    left: 555px;
+}
+.blackquote {
+    display: inline;
+    position: absolute;
+    top: 450px;
+    left: 390px;
+    rotate: -10deg;
+}
+.yellowquote {
+    display: inline;
+    position: absolute;
+    top: 450px;
+    left: 700px;
+    rotate: 10deg;
+}
+.alisa {
+    display: inline;
+    position: absolute;
+    top: 680px;
+    left: 10px;
+}
+.stats {
+    display: inline;
+    position: absolute;
+    top: 820px;
+    left: 600px; 
+    border-color: black;
+}
+.third {
+    display: inline;
+    position: absolute;
+    top: 910px;
+    left: 590px; 
+}

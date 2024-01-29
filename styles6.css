@@ -1,0 +1,45 @@
+* {
+    background-color: aqua;
+}
+.table tr td {
+    border-color: black;
+    width: 220px;
+    height: 120px;
+    background-color: gray;
+}
+.tabletwo {
+   position: absolute;
+   display: inline;
+   left: 35%;
+   top: 30%
+}
+.point {
+   position: absolute;
+   display: inline;
+   left: 50%;
+   top: 20%
+}
+.mp {
+   position: absolute;
+   display: inline;
+   left: 0%;
+   top: 60%
+}
+.sixpack {
+   position: absolute;
+   display: inline;
+   left: 70%;
+   top: 75%
+}
+.seven {
+   position: absolute;
+   display: inline;
+   left: 15%;
+   top: 80%
+}
+.lanerope {
+    position: absolute;
+   display: inline;
+   left: 40%;
+   top: 75%
+}

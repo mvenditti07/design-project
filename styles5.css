@@ -1,0 +1,54 @@
+* {
+    background-color: rgb(230, 140, 5);
+}
+.hug {
+    position: absolute;
+    display: inline;
+    top: 10%;
+    left: 20%;
+}
+.dribble {
+    position: absolute;
+    display: inline;
+    top: 10%;
+    left: 56%;
+}
+.pele {
+    position: absolute;
+    display: inline;
+    top: 70%;
+    left: 0%;
+}
+.ballon {
+    position: absolute;
+    display: inline;
+    top: 15%;
+    left: 80%;
+}
+.head {
+    position: absolute;
+    display: inline;
+    top: 15%;
+    left: 42%;
+}
+.kick {
+    position: absolute;
+    display: inline;
+    top: 13%;
+    left: 0%;
+}
+.bottom {
+    position: absolute;
+    display: inline;
+    top: 90%;
+    left: 0%;
+}
+.one {
+    position: absolute;
+    display: inline;
+    top: 55%;
+    left: 85%;
+}
+.two {
+    color: black;
+}
